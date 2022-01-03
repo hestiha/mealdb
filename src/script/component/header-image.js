@@ -20,4 +20,4 @@ class HeaderImage extends HTMLElement() {
     }
 }
 
-customElements.define("HeaderImage", HeaderImage);
+customElements.define("header-image", HeaderImage);

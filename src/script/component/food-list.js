@@ -21,4 +21,4 @@ class FoodList extends HTMLElement {
     }
 }
 
-customElements.define("FoodList", FoodList);
+customElements.define("food-list", FoodList);
