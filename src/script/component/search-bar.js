@@ -33,4 +33,4 @@ class SearchBar extends HTMLElement(){
     }
 }
 
-customElements.define("SearchBar", SearchBar);
+customElements.define("search-bar", SearchBar);
